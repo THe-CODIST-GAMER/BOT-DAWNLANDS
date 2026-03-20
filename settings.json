@@ -8,7 +8,7 @@
   "server": {
     "ip": "dawnlands-eflR.aternos.me",
     "port": 13220,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "BOT ONLINE",
         "I like to play Minecraft!"
       ]
     },
